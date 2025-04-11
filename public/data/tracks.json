@@ -1,0 +1,95 @@
+[
+  {
+    "id": 143698521,
+    "doc_id": 143698521,
+    "name": "Blinding Lights",
+    "isrc": "USUG11904523",
+    "album": [
+      {
+        "id": 40236987,
+        "label": "XO/Republic Records",
+        "name": "After Hours",
+        "ordering": 5,
+        "release_date": "2020-03-20",
+        "upc": "602508798528"
+      }
+    ],
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a5/7b/2f/a57b2f93-c468-0b03-2c4e-d154d2bef0a7/mzaf_11282028764140078705.plus.aac.p.m4a",
+    "score": 9875,
+    "spotify_popularity": 90,
+    "spotify_playlist_total_reach": 312456789,
+    "spotify_playlist_count": 298745,
+    "tiktok_posts": 7850000,
+    "weekly_diff": {
+      "spotify_plays": 12345678
+    },
+    "monthly_diff": {
+      "spotify_plays": 52478963
+    },
+    "showLineSeries": true,
+    "earliestReleaseDate": "2020-03-20"
+  },
+  {
+    "id": 147852369,
+    "doc_id": 147852369,
+    "name": "As It Was",
+    "isrc": "USSM12200612",
+    "album": [
+      {
+        "id": 42365987,
+        "label": "Columbia Records",
+        "name": "Harry's House",
+        "ordering": 2,
+        "release_date": "2022-05-20",
+        "upc": "194399463924"
+      }
+    ],
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/96/7e/ea/967eea0f-3d8e-9bb6-b4c5-fb3d9e0b3ce1/mzaf_11979198929462144963.plus.aac.p.m4a",
+    "score": 8965,
+    "spotify_popularity": 88,
+    "spotify_playlist_total_reach": 265478963,
+    "spotify_playlist_count": 254789,
+    "tiktok_posts": 5870000,
+    "weekly_diff": {
+      "spotify_plays": 15478963
+    },
+    "monthly_diff": {
+      "spotify_plays": 65478932
+    },
+    "showLineSeries": true,
+    "earliestReleaseDate": "2022-05-20"
+  },
+  {
+    "id": 149632587,
+    "doc_id": 149632587,
+    "name": "Cruel Summer",
+    "isrc": "USUG11901011",
+    "album": [
+      {
+        "id": 43698521,
+        "label": "Republic Records",
+        "name": "Lover",
+        "ordering": 2,
+        "release_date": "2019-08-23",
+        "upc": "602577767685"
+      }
+    ],
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/e5/77/c5e577fe-ca89-e0c3-5ff3-8556e9f39f2a/mzaf_10533996235995340943.plus.aac.p.m4a",
+    "score": 9632,
+    "spotify_popularity": 93,
+    "spotify_playlist_total_reach": 298745632,
+    "spotify_playlist_count": 265478,
+    "tiktok_posts": 7250000,
+    "weekly_diff": {
+      "spotify_plays": 25478963
+    },
+    "monthly_diff": {
+      "spotify_plays": 98745632
+    },
+    "showLineSeries": true,
+    "earliestReleaseDate": "2019-08-23"
+  }
+]
